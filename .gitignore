@@ -7,3 +7,11 @@ submissions/
 out/
 *.zip
 .env
+
+# Submission files for Google Drive (not tracked in Git)
+submission_drive/
+hoangthuanthien*
+qc1_form*
+yolov8n.pt
+.DS_Store
+
