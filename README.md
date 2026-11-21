@@ -40,3 +40,9 @@ uv run --with pytest==8.3.4 pytest -q
 - [Nguồn dữ liệu và giấy phép](ATTRIBUTION.md).
 
 `lint` chỉ kiểm định dạng file. Nó không so bài của bạn với GT và không cho điểm. Coach chấm bằng `road_check check` hoặc `road_check batch` sau buổi.
+
+## Nộp bài Google Drive
+
+- **Học viên:** Hoàng Thuận Thiên — **MSSV:** 2A202603270
+- **Link Google Drive (5 file nộp bài):** [https://drive.google.com/drive/folders/1Zi2DzKekjX4JhPZG-hebXmrcMKEGH2gL](https://drive.google.com/drive/folders/1Zi2DzKekjX4JhPZG-hebXmrcMKEGH2gL)
+
